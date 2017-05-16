@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="setting">Settings</string>
+    <string name="value">Values</string>
+    <string name="personal">Personal</string>
+    <string name="child">Child</string>
+    <string name="exit">Exit</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="navigationheader">Navigation Header</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mot">Mot</string>
+</resources>
